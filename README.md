@@ -5,11 +5,11 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=2800&pause=700&color=FF61F6&center=true&vCenter=true&width=800&lines=I+Ship+Apps+For+The+World+%F0%9F%8C%8D;React+Native+Is+My+Weapon;Clean+UI+Is+My+Obsession;Bugs+Fear+Me;Vibe+Coder+In+Flow+State" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38F7FF&center=true&vCenter=true&width=800&lines=From+Idea+%E2%86%92+Code+%E2%86%92+App+%E2%86%92+World+%F0%9F%8C%8D;React+%26+React+Native+Engineer;Building+Apps+People+Actually+Use;Vibe+Coder+%7C+UI+Lover+%7C+Problem+Solver;Shipping+Features+Not+Just+Repos" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3E0cDNndG85N25tN3V5a3hmdHc0MmdvdWFtb29rZWx6ZW1xZ2FtcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="620" />
 </p>
 ---
 
