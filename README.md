@@ -87,6 +87,15 @@
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=gsjdpq25s27aq4g5ugvm3axyc&show_offline=true" />
 </p>
 
+## 🏅 GitHub Achievements  
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80"/>
+  <!-- <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80"/> -->
+  <!-- <img s rc="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80"/> -->
+</p>
+
+
 ## 🤝 Let’s Build Something Cool  
 
 <p align="center">
