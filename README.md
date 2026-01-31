@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=700&lines=Shipping+Apps+Used+Worldwide+%F0%9F%8C%8D;React+%7C+React+Native+Engineer;Vibe+Coder+Enthusiast+%F0%9F%94%A5;Designing+Clean+UI+%26+Smooth+UX;Turning+Ideas+Into+Live+Products" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
+</p>
+
 ---
 
 ## ✨ Who Am I?  
@@ -82,6 +86,13 @@
 </p>
 
 ---
+
+## 🎧 Now Playing on Spotify  
+
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true" />
+</p>
+
 
 <p align="center">
   <i>"Code. Ship. Repeat. 🚀"</i>
