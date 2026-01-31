@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3E0cDNndG85N25tN3V5a3hmdHc0MmdvdWFtb29rZWx6ZW1xZ2FtcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="620" />
 </p>
----
+
 
 ## ✨ Who Am I?  
 > A software engineer who believes **great apps = clean code + smooth UX + creative energy**.
@@ -80,6 +80,13 @@
 
 ---
 
+
+## 🎧 Now Playing on Spotify  
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=gsjdpq25s27aq4g5ugvm3axyc&show_offline=true" />
+</p>
+
 ## 🤝 Let’s Build Something Cool  
 
 <p align="center">
@@ -93,12 +100,6 @@
 
 ---
 
-## 🎧 Now Playing on Spotify  
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=gsjdpq25s27aq4g5ugvm3axyc&show_offline=true
-" />
-</p>
 
 
 <p align="center">
