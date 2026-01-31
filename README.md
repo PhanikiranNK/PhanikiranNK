@@ -4,14 +4,14 @@
 🌍 Software Engineer crafting global apps with React & React Native  
 </h3>
 
+---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=700&lines=Shipping+Apps+Used+Worldwide+%F0%9F%8C%8D;React+%7C+React+Native+Engineer;Vibe+Coder+Enthusiast+%F0%9F%94%A5;Designing+Clean+UI+%26+Smooth+UX;Turning+Ideas+Into+Live+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Software+Engineer+Shipping+Global+Apps;React+%7C+React+Native+Specialist;Designing+Smooth+Experiences;Turning+Concepts+Into+Live+Products;Code+With+Focus.+Build+With+Purpose." />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" />
 </p>
-
 ---
 
 ## ✨ Who Am I?  
