@@ -28,6 +28,13 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,typescript,js,html,css,tailwind,nodejs,express,mysql,mongodb,git,github,chatgpt,claude,gemini" />
+  <p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-FF6F00?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
 </p>
 
 ---
