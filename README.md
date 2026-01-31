@@ -71,10 +71,10 @@
 ## 🌐 Let’s Connect  
 
 <p align="center">
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com/in/phanikiran-nk95/">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:nkphanikiran@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
