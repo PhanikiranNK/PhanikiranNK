@@ -1,25 +1,27 @@
-<h1 align="center">Hi 👋, I'm Phanikiran NK</h1>
+<h1 align="center">Hey there 👋, I'm Phanikiran NK</h1>
 
 <h3 align="center">
-🚀 Software Engineer | React • React Native • App Developer  
+🌍 Software Engineer crafting global apps with React & React Native  
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=650&lines=Software+Engineer+Shipping+Global+Apps+%F0%9F%8C%8D;React+%7C+React+Native+Specialist;Vibe+Coder+Enthusiast+%F0%9F%94%A5;Turning+Ideas+Into+Production+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=700&lines=Shipping+Apps+Used+Worldwide+%F0%9F%8C%8D;React+%7C+React+Native+Engineer;Vibe+Coder+Enthusiast+%F0%9F%94%A5;Designing+Clean+UI+%26+Smooth+UX;Turning+Ideas+Into+Live+Products" />
 </p>
 
 ---
 
-## 👨‍💻 About Me  
-- 💼 Software Engineer building **React & React Native apps**  
-- 🌍 Developing apps used by users worldwide  
-- ⚡ Vibe Coder Enthusiast (code + creativity = magic)  
-- 🧠 Focused on clean UI, smooth UX & scalable apps  
-- 🎯 Mission: Build products people love to use  
+## ✨ Who Am I?  
+> A software engineer who believes **great apps = clean code + smooth UX + creative energy**.
+
+- 💼 Building production-ready apps with **React & React Native**  
+- 🌍 Apps I build are meant for users across the world  
+- ⚡ Proud **Vibe Coder** (I code with focus + flow)  
+- 🎨 Obsessed with clean UI and delightful user experience  
+- 🚀 Goal: Build digital products people enjoy using  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🧰 My Tech Playground  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,redux,typescript,js,html,css,tailwind,nodejs,express,mysql,mongodb,git,github,aws,firebase" />
@@ -27,16 +29,16 @@
 
 ---
 
-## 📱 What I Build  
-- 🌐 Cross-platform mobile apps  
-- 🖥️ Modern web apps  
-- ⚙️ Scalable frontend architectures  
-- 🎨 Pixel-perfect UI/UX  
-- 🚀 Production-ready features  
+## 🧩 What I Love Building  
+- 📱 Cross-platform mobile apps  
+- 🌐 Scalable web applications  
+- 🧠 Smart frontend architectures  
+- 🎨 Pixel-perfect user interfaces  
+- 🚀 Features that actually ship to production  
 
 ---
 
-## 📊 GitHub Stats  
+## 📈 GitHub in Motion  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PhanikiranNK&show_icons=true&theme=tokyonight" />
@@ -52,7 +54,7 @@
 
 ---
 
-## 🏆 Achievements  
+## 🏆 Proof of Work  
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PhanikiranNK&theme=dracula&row=1" />
@@ -60,7 +62,7 @@
 
 ---
 
-## 🐍 Contribution Snake  
+## 🐍 My Commits Have a Life of Their Own  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PhanikiranNK/PhanikiranNK/output/github-contribution-grid-snake.svg" />
@@ -68,17 +70,19 @@
 
 ---
 
-## 🌐 Let’s Connect  
+## 🤝 Let’s Build Something Cool  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/phanikiran-nk95/">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:nkphanikiran@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
-⭐ Building apps. Shipping features. Vibing with code.
+<p align="center">
+  <i>"Code. Ship. Repeat. 🚀"</i>
+</p>
