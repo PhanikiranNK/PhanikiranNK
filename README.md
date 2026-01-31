@@ -90,7 +90,7 @@
 ## 🎧 Now Playing on Spotify  
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=Phanikiran NK&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=gsjdpq25s27aq4g5ugvm3axyc&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true" />
 </p>
 
 
