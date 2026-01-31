@@ -72,10 +72,10 @@
 
 ---
 
-## 🐍 My Commits Have a Life of Their Own  
+##  My Commits Have a Life of Their Own  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PhanikiranNK/PhanikiranNK/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/PhanikiranNK/PhanikiranNK/output/space.svg" />
 </p>
 
 ---
