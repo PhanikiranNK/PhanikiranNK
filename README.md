@@ -27,7 +27,7 @@
 ## 🧰 My Tech Playground  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,typescript,js,html,css,tailwind,nodejs,express,mysql,mongodb,git,github,aws,firebase" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,js,html,css,tailwind,nodejs,express,mysql,mongodb,git,github,chatgpt,claude,gemini" />
 </p>
 
 ---
