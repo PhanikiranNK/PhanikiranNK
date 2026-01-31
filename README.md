@@ -4,13 +4,12 @@
 🌍 Software Engineer crafting global apps with React & React Native  
 </h3>
 
----
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&duration=3500&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Software+Engineer+Shipping+Global+Apps;React+%7C+React+Native+Specialist;Designing+Smooth+Experiences;Turning+Concepts+Into+Live+Products;Code+With+Focus.+Build+With+Purpose." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=2800&pause=700&color=FF61F6&center=true&vCenter=true&width=800&lines=I+Ship+Apps+For+The+World+%F0%9F%8C%8D;React+Native+Is+My+Weapon;Clean+UI+Is+My+Obsession;Bugs+Fear+Me;Vibe+Coder+In+Flow+State" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" />
 </p>
 ---
 
