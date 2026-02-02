@@ -72,12 +72,11 @@
 
 ---
 
-##  My Commits Have a Life of Their Own  
+## 🥷 My GitHub Ninja Stats  
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/PhanikiranNK/PhanikiranNK/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/PhanikiranNK/PhanikiranNK/output/github-metrics.svg" />
 </p>
-
 ---
 
 
