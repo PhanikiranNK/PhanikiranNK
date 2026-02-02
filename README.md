@@ -72,12 +72,10 @@
 
 ---
 
-## 🥷 My GitHub Ninja Stats  
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/PhanikiranNK/PhanikiranNK/output/github-metrics.svg" />
+## My Commits Have a Life of Their Own 
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/PhanikiranNK/PhanikiranNK/output/github-contribution-grid-snake.svg" /> 
 </p>
----
 
 
 ## 🎧 Now Playing on Spotify  
