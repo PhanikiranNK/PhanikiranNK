@@ -39,6 +39,15 @@
 
 ---
 
+
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZnbzFqYnRyc3J5dHdmcGh1MTNuNWk0aDN2ZTlta3dsZnliMGFhMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7BW9U2cJPQZ0s/giphy.gif" 
+    width="300"
+    alt="Luffy"
+  />
+</p>
+
 ## 🧩 What I Love Building  
 - 📱 Cross-platform mobile apps  
 - 🌐 Scalable web applications  
