@@ -106,6 +106,16 @@
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80"/>
   <!-- <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80"/> -->
   <!-- <img s rc="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80"/> -->
+
+  <p align="center">
+  <img 
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2d2YTlmbTRrYXE5anIwa3lzMndhNWhuenZvaDcxdjRxMDB0eGpjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lTWrURRi8Di59m4x8f/giphy.gif" 
+    width="240"
+    alt="Luffy running"
+  />
+  <br />
+  <i>Running towards the next feature 🚀</i>
+</p>
 </p>
 
 
