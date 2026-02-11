@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Phanikiran NK</h1>
+<h1 align="center">Hello 👋, I'm Phanikiran NK</h1>
 
 <h3 align="center">
 🌍 Software Engineer crafting global apps with React & React Native  
